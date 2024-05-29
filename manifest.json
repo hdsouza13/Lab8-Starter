@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Hugo",
     "description": "testing the service workers",
-    "start_url": "./index.html",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "black",
     "theme_color": "black",
